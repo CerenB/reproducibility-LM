@@ -32,7 +32,7 @@ mkdir -p mySubdirName/myDirName
 * setup as alias `ll`, open `~/. bash_profile` and paste the following:
 
 ```
-alias l='ls -lah'
+alias ll='ls -lah'
 ```
 
 `. ` current directory
